@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "title": "Inspect the repository and available local tooling",
+      "status": "done"
+    },
+    {
+      "title": "Create the separated frontend and backend foundations with configuration and docs",
+      "status": "done"
+    },
+    {
+      "title": "Run both apps and verify the build, health endpoint, and CORS",
+      "status": "done"
+    }
+  ],
+  "updated_at": "2026-10-04T05:48:26.593Z",
+  "session_id": "01a10568-840f-74e7-93fd-38728ee64500"
+}
